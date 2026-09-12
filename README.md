@@ -60,3 +60,5 @@ Severity & Risk Assessment
 Priority Intelligence
         ↓
 Emergency Response Dashboard
+
+### Built during the Hackathon conducted at CMRIT, Mandya, by RankBook Learning & Software Solutions Private Limited, focused on Full Stack Development with AI
