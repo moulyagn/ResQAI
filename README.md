@@ -40,6 +40,7 @@ This creates problems such as:
 - Difficulty prioritizing emergency response
 - Lack of a unified real-time operational view
 
+
 ### 💡 Our Solution
 
 ResQAI acts as an **AI-powered disaster intelligence layer** between incoming information and emergency response teams.
@@ -61,4 +62,9 @@ Priority Intelligence
         ↓
 Emergency Response Dashboard
 
-### Built during the Hackathon conducted at CMRIT, Mandya, by RankBook Learning & Software Solutions Private Limited, focused on Full Stack Development with AI
+---
+
+## 🏆 Hackathon
+
+*Built during the Hackathon conducted at CMRIT, Mandya, by RankBook Learning & Software Solutions Private Limited, focused on Full Stack Development with AI / Cyber Security.*
+
