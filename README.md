@@ -66,5 +66,5 @@ Emergency Response Dashboard
 
 ## 🏆 Hackathon
 
-*Built during the Hackathon conducted at CMRIT, Mandya, by RankBook Learning & Software Solutions Private Limited, focused on Full Stack Development with AI / Cyber Security.*
+Built during the Hackathon conducted at CMRIT, Mandya, by RankBook Learning & Software Solutions Private Limited, focused on Full Stack Development with AI 
 
